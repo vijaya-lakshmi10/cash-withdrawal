@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.denomination-amounts{
+    list-style-type: none;
+    
+}
+.denominations{
+    cursor: pointer;
+    outline: none;
+    background-color: #382f5a;
+    border:2px solid #c4c4c4;
+    color:#c4c4c4;
+    padding:10px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: "Roboto";
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
